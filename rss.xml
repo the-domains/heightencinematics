@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Heighten Cinematics]]></title>
         <description><![CDATA[Heighten Cinematics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heightencinematics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 17:18:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 17:26:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heightencinematics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Heighten Cinematics</p>]]></description>
-            <link>undefined6b7bc592-4f4e-4494-a7ee-5e760f0bd6e3/index.html</link>
+            <title><![CDATA[Heighten Cinematics]]></title>
+            <description><![CDATA[<article><h1>Heighten Cinematics</h1><h2>Your adventure. To new heights.</h2><p>Inquiries at heightencinematics@gmail.com.</p></article>]]></description>
+            <link>https://thegrid.ai/heightencinematics/6b7bc592-4f4e-4494-a7ee-5e760f0bd6e3/index.html</link>
             <guid isPermaLink="false">6b7bc592-4f4e-4494-a7ee-5e760f0bd6e3</guid>
-            <pubDate>Fri, 04 Mar 2016 17:17:56 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 17:26:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
