@@ -1,28 +1,40 @@
-name: Heighten Cinematics
 favicon: null
-layout_spectrum: 0.11743
-typography_spectrum: 0.61422
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Heighten Cinematics
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.27586072287522256
-  lightness: 0.8138494153972715
-  saturation: 0.4259124551899731
-  rhythmicContrast: 0.7582890349440277
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4259124551899731
+  brandStrength: 0.2758607228752226
+  lightness: 0.8138494153972715
+  brandColors:
+    - '#0D0D0D'
+    - '#E8E9EA'
+    - '#A3ABBC'
+    - '#775D4B'
+    - '#3A4A02'
+  rhythmicContrast: 0.7582890349440277
+typography_spectrum: 0.61422
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.11743
+analytics:
+  twitter: null
+  google: null
+  facebook: null
