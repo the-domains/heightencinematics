@@ -1,0 +1,28 @@
+name: Heighten Cinematics
+favicon: null
+layout_spectrum: 0.0853602618444711
+typography_spectrum: 0.8472780990414321
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.27586072287522256
+  lightness: 0.8138494153972715
+  saturation: 0.4259124551899731
+  rhythmicContrast: 0.7582890349440277
+purpose: []
