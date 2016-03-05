@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Heighten Cinematics
-    url: 'https://www.youtube.com/channel/UClmJtDlq7LihyNdsL_7HxiA'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=SQtytryceLI'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - r46
   - lastweektonight
 description: Uploaded by Heighten Cinematics on 2015-12-07.
-inLanguage: en
+datePublished: '2016-03-05T04:48:02.999Z'
+dateModified: '2016-03-05T04:47:12.456Z'
+author:
+  - name: Heighten Cinematics
+    url: 'https://www.youtube.com/channel/UClmJtDlq7LihyNdsL_7HxiA'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=SQtytryceLI&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=SQtytryceLI'
 title: Queensbridge teaser for IG v3
-datePublished: '2016-03-05T04:40:59.287Z'
-dateModified: '2016-03-05T04:39:46.806Z'
 sourcePath: _posts/2016-03-05-queensbridge-teaser-for-ig-v3.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
