@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Heighten Cinematics
-    url: 'https://www.youtube.com/channel/UClmJtDlq7LihyNdsL_7HxiA'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=oiZoP_TcEkY'
+inLanguage: en
+starred: false
 keywords:
   - castle
   - duration
@@ -21,7 +17,13 @@ keywords:
   - meigs
   - bouldering
 description: Uploaded by Heighten Cinematics on 2016-02-18.
-inLanguage: en
+datePublished: '2016-03-05T17:34:49.033Z'
+dateModified: '2016-03-05T06:20:27.011Z'
+author:
+  - name: Heighten Cinematics
+    url: 'https://www.youtube.com/channel/UClmJtDlq7LihyNdsL_7HxiA'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=oiZoP_TcEkY&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=oiZoP_TcEkY'
 title: Castle Rock v6
-datePublished: '2016-03-05T06:19:59.525Z'
-dateModified: '2016-03-05T05:05:52.607Z'
 sourcePath: _posts/2016-03-05-castle-rock-v6.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
