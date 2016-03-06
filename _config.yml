@@ -1,6 +1,6 @@
 name: Heighten Cinematics
 favicon: null
-layout_spectrum: 0.37037
+layout_spectrum: 0.43541
 typography_spectrum: 0.78766
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#775D4B'
     - '#3A4A02'
   brandStrength: 0.2758607228752226
-  lightness: 0.375
+  lightness: 0.25
   saturation: 0.75
   rhythmicContrast: 0.25
 purpose: []
