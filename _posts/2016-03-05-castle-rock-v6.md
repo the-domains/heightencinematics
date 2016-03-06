@@ -17,8 +17,8 @@ keywords:
   - meigs
   - bouldering
 description: ''
-datePublished: '2016-03-06T00:28:28.819Z'
-dateModified: '2016-03-06T00:28:16.794Z'
+datePublished: '2016-03-06T00:36:46.693Z'
+dateModified: '2016-03-06T00:35:53.277Z'
 author:
   - name: Heighten Cinematics
     url: 'https://www.youtube.com/channel/UClmJtDlq7LihyNdsL_7HxiA'
