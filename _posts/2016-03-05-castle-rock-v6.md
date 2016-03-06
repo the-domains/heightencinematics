@@ -16,9 +16,9 @@ keywords:
   - hueco
   - meigs
   - bouldering
-description: Uploaded by Heighten Cinematics on 2016-02-18.
-datePublished: '2016-03-05T17:34:49.033Z'
-dateModified: '2016-03-05T06:20:27.011Z'
+description: ''
+datePublished: '2016-03-06T00:28:28.819Z'
+dateModified: '2016-03-06T00:28:16.794Z'
 author:
   - name: Heighten Cinematics
     url: 'https://www.youtube.com/channel/UClmJtDlq7LihyNdsL_7HxiA'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Castle Rock v6
+title: Castle Rock
 sourcePath: _posts/2016-03-05-castle-rock-v6.md
 published: true
 authors: []
