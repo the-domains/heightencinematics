@@ -16,9 +16,9 @@ keywords:
   - manhattanhenge
   - r46
   - lastweektonight
-description: Uploaded by Heighten Cinematics on 2015-12-07.
-datePublished: '2016-03-06T00:27:50.989Z'
-dateModified: '2016-03-06T00:00:04.471Z'
+description: ''
+datePublished: '2016-03-06T00:34:46.305Z'
+dateModified: '2016-03-06T00:29:04.080Z'
 author:
   - name: Heighten Cinematics
     url: 'https://www.youtube.com/channel/UClmJtDlq7LihyNdsL_7HxiA'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Queensbridge teaser for IG v3
+title: Queensbridge
 sourcePath: _posts/2016-03-05-queensbridge-teaser-for-ig-v3.md
 published: true
 authors: []
